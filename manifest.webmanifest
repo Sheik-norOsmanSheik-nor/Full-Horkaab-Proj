@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "/Assets/img/favicons/Adroid-192.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Assets/img/favicons/Adroid-512.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ]
+}
